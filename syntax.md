@@ -1,6 +1,7 @@
 # Syntax for chicago pile componenents with CC
 
 1.Fuel Loader
+
 getLoadingType(): idk
 
 isLoading()
@@ -18,10 +19,12 @@ getLifetime()
 
 2.pile vent
 
+
 just works as fluid_storage entity
 
 
 3.control rod
+
 
 setLevel
 
